@@ -1,0 +1,21 @@
+<div class="post-meta">
+  <small>
+  <span class="post-date">{{ include.post.date | date: "%B %-d, %Y" }}</span>
+  
+  {% assign tags_page = false %}
+  {% for node in site.pages %}
+  {% if node.layout == "tags" or node.title == "tags" %}
+  {% assign tags_page = node %}
+  {% endif %}
+  {% endfor %}
+  
+  &bull;
+  
+  <span class="post-tags">
+    <em>tagged in</em>
+    {% for tag in include.post.tags %}
+    <a href="/blog/tags/{{ tags_page.url | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}
+    {% endfor %}
+  </span>
+  </small>
+</div>

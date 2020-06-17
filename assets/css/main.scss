@@ -1,0 +1,325 @@
+---
+# Custom CSS
+---
+
+$root-font-family: 'Crimson Pro', serif;
+$sidebar-bg-color: #fff;
+$sidebar-fg-color: #202020;
+$heading-color: #2e9fff;
+$link-color: $heading-color;
+$code-color: #D36582;
+@import "hydeout";
+@import "bigfoot-number";
+
+/* -----------------------------------------------------------
+  Body
+----------------------------------------------------------- */
+
+hr {
+  margin: 1rem 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Kanit';
+  font-weight: 800;
+  line-height: 1;
+  color: $sidebar-text-color;
+
+  & a {
+    color: $heading-color;
+  }
+}
+
+.container > header h1 {
+  font-size: 2.125rem;
+  color: $sidebar-text-color;
+}
+
+h1.post-title,
+h1.page-title {
+  font-size: 2rem;
+  color: $sidebar-text-color;
+}
+
+p.blog-subtitle {
+  font-family: 'Playfair Display';
+  color: $sidebar-text-color;
+  font-style: italic;
+  font-size: 1.125em;
+}
+
+strong {
+  font-weight: 900;
+}
+
+/* -----------------------------------------------------------
+  Sidebar
+----------------------------------------------------------- */
+
+#sidebar .site-title {
+  font-family: 'Kanit';
+  font-weight: 800;
+  line-height: 1;
+  color: $heading-color;
+}
+
+.lead {
+  font-family: 'Playfair Display';
+  font-size: 1.25rem;
+  font-weight: 200;
+  color: #767676;
+}
+
+/* -----------------------------------------------------------
+  Sidebar links & navigation
+----------------------------------------------------------- */
+
+#sidebar a:hover,
+#sidebar a:focus {
+    text-decoration: none;
+}
+
+#sidebar a.active{
+    font-weight: inherit;
+}
+
+#sidebar-nav-links a {
+    font-family: 'Kanit';
+    font-weight: 200;
+    color: $heading-color;
+    font-size: 1.5rem;
+}
+
+#sidebar nav > * {
+    line-height: 1.5em;
+}
+
+i.fas,
+i.fab {
+    font-size: 1.75em;
+    margin-bottom: 1rem;
+    color: $heading-color;
+    padding-right: 1rem;
+}
+
+/* -----------------------------------------------------------
+  Container
+----------------------------------------------------------- */
+
+.container a:hover,
+.container a:focus {
+    text-decoration: none;
+}
+
+/* -----------------------------------------------------------
+  Post
+----------------------------------------------------------- */
+
+.post-tags a {
+  margin-right: 0;
+  opacity: 100;
+}
+
+/* -----------------------------------------------------------
+  Link animation
+----------------------------------------------------------- */
+
+body a,
+#sidebar a,
+i.fas,
+i.fab {
+    transition: color .4s ease-out;
+
+    &:hover,
+    &focus {
+        color: #D36582;
+        right: 0;
+        text-decoration: none;
+    }
+}
+
+button:hover,
+button:focus,
+input:hover,
+input:focus {
+    background: #D36582;
+    border-color: #D36582;
+}
+
+/* -----------------------------------------------------------
+  Mobile view
+----------------------------------------------------------- */
+
+p {
+  font-size: 1.25rem;
+}
+
+#sidebar {
+
+  // Center sidebar content
+  text-align: center;
+
+  // Reduced title size from home
+  // Turn off back-arrow
+  .site-title {
+    font-size: 3.25rem;
+    .back-arrow { display: none; }
+  }
+
+  // Show secondary nav content in sidebar
+  // Hide lead paragraph in sidebar
+
+  // Show secondary nav content + lead
+  header ~ *,
+  p.lead {
+    display: block;
+  }
+
+  header ~ nav {
+    display: flex;
+  }
+
+  // Slightly more bottom padding to compensate for heading not match 100% of
+  // line-height on top
+  > *:last-child {
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Make entire container background white to contrast against sidebar
+.container {
+  background: $body-bg;
+  color: $body-color;
+  min-height: 100vh;
+  padding:
+    $section-spacing
+    $section-spacing
+    0;
+
+  > header {
+    color: $sidebar-text-color;
+    margin: 0;
+
+    h1,
+    h2 {
+      color: $sidebar-text-color;
+
+      &:last-child {
+        margin-bottom: $heading-spacing;
+      }
+    }
+  }
+
+  > * {
+    max-width: 38rem;
+    padding: 0;
+  }
+}
+
+/* -----------------------------------------------------------
+  Tablet / Desktop view
+----------------------------------------------------------- */
+
+@media (min-width: $large-breakpoint) {
+  
+  p {
+    font-size: $root-font-size;
+  }
+
+  body {
+    flex-direction: row;
+    min-height: 100vh;
+    -webkit-overflow-scrolling: touch;
+    overflow-y: auto;
+
+    > * {
+      -webkit-overflow-scrolling: touch;
+      overflow-y: auto;
+    }
+  }
+
+  #sidebar,
+  .home #sidebar {
+    text-align: left;
+    width: $sidebar-width;
+
+    > *:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  #sidebar {
+    position: fixed;
+
+    // Attach to bottom or top of window
+    @if $sidebar-sticky {
+      bottom: 0;
+    }
+
+    @else {
+      top: 0;
+    }
+
+    // Attach to right or left of window
+    @if $layout-reverse {
+      right: 0;
+    }
+
+    @else {
+      left: 0;
+    }
+
+    p.lead,
+    header ~ * {
+      display: block;
+    }
+
+    header ~ nav {
+      display: flex;
+    }
+  }
+
+  .index #sidebar { margin-bottom: 0; }
+
+  // Make entire container background white to contrast against sidebar
+  .container {
+    background: $body-bg;
+    color: $body-color;
+    min-height: 100vh;
+    padding:
+      $section-spacing * 2
+      $section-spacing * 2
+      0;
+
+    @if $layout-reverse {
+      margin-right: $sidebar-width;
+    }
+
+    @else {
+      margin-left: $sidebar-width;
+    }
+
+    > header {
+      margin: 0;
+
+      h1,
+      h2 {
+        color: inherit;
+
+        &:last-child {
+          margin-bottom: $heading-spacing;
+        }
+      }
+    }
+
+    > * {
+      max-width: 38rem;
+      padding: 0;
+    }
+  }
+}

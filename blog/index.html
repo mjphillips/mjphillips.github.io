@@ -1,0 +1,66 @@
+---
+layout: default
+title: Blog
+sidebar_sort_order: 3
+---
+<header>
+    <h1 class="page-title">Open +  Worlds</h1>
+    <p class="blog-subtitle">Developing new vocabularies for culture & society</p>
+    <hr />
+</header>
+
+<div class="content">
+    
+{% for post in paginator.posts %}
+
+<article class="post-body">
+    <h1 class="post-title">
+        <a href="{{ post.url | relative_url }}">
+            {{ post.title }}
+        </a>
+    </h1>
+
+    {% include post-meta.html post=post %}
+
+    {% if post.excerpt %}
+    {{ post.excerpt }}
+    {% else %}
+    {{ post.content }}
+    {% endif %}
+
+    {% if post.excerpt %}
+    {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
+    {% capture content_words %}
+    {{ post.content | number_of_words }}
+    {% endcapture %}
+    {% capture excerpt_words %}
+    {{ post.excerpt | number_of_words | strip_footnotes }}
+    {% endcapture %}
+
+    {% if content_words != excerpt_words %}
+    <a href="{{ post.url | relative_url }}">Read more &hellip;</a>
+    {% endif %}
+    {% endif %}
+</article>
+
+{% endfor %}
+
+<div class="pagination">
+    {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | relative_url }}">
+        Newer
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">
+        Older
+    </a>
+    {% endif %}
+</div>
+
+<div class="archive">
+    <h2>Archives</h2>
+    <a href="/blog/archive/">By Chronology</a> • <a href="/blog/tags/">By Tag</a>
+</div>
+
+</div>

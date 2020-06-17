@@ -36,7 +36,7 @@ paginate: 5
 paginate_path: /blog/page:num
 
 # Build settings
-theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 # plugins:
 jekyll_compose:
   default_front_matter:

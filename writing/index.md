@@ -6,6 +6,10 @@ permalink: /writing/
 sidebar_link: true
 sidebar_sort_order: 2
 ---
+"[Review of Xandria Phillips's *Hull*](https://www.broadstreetreview.com/books/hull-by-xandria-phillips)." *Broad Street Review*. July 14, 2020.
+
+> Xandria Phillips’s debut collection of poems explores the vulnerability of Black, queer bodies under white supremacy.
+
 "[Gaming in Quarantine](https://www.broadstreetreview.com/cross-cultural/in-the-pandemic-these-video-games-keep-us-connected-to-lifeand-each-other)." *Broad Street Review*. April 5, 2020.
 
 > During the COVID-19 pandemic, these video games keep us connected to life and each other.

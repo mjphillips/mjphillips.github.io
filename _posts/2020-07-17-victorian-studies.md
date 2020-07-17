@@ -2,13 +2,16 @@
 layout: post
 title: The Tropics of Victorian Studies
 date: 2020-07-17 09:52 -0400
-description: 
-image: 
+description: An expression of admiration and thinking-with the authors of "Undisciplining Victorian Studies." 
+image: /assets/img/jenreid.jpg
 category: 
 tags: [writing, academia, Victorian Studies, literature]
 published: true
 sitemap: false
 ---
+
+![Jen Reid poses by a statue of a Black Lives Matter protestor in Bristol, England. Credit: CNN and Matthew Horwood/Getty Images](/assets/img/jenreid.jpg)
+
 Recently, a group of early- and mid-career scholars of Victorian literature [published](https://lareviewofbooks.org/article/undisciplining-victorian-studies/) a call to "undiscipline" the field of Victorian Studies. The essay, which was published in the *Los Angeles Review of Books*, was adapted from the Introduction to a forthcoming special issue of *Victorian Studies*, the major journal for the field of VS. The essay has drawn a lot of attention on social media, most of which is positive. I don't want to call the essay, or its authors, brave. "Bravery" suggests a kind of heroic individualism that is counter to the relational and coalition-based ethos of the essay. Instead, it's a necessary intervention that helps charts a way forward for the field. The authors are right to argue that any effort to forestall this undisciplining will, instead, further entrench the white supremacy at the heart of Victorian Studies. Personally, I avoid describing myself or my work as "activist" because I have tremendous respect for those who do the work of organizing and building coalitions. The authors of "Undisciplining Victorian Studies"---Ronjaunee Chatterjee, Alicia Mireles Christoff, and Amy R. Wong--- are doing that work. They demonstrate what Victorianist scholarship might look like when it is aligned with an activism that puts racial justice and decolonialization at its center.
 
 Undisciplining is picked up from Christina Sharpe's magnificent book *In the Wake: On Blackness and Being*. To become undisciplined, according to Sharpe, is to "disavow" the knowledge formations (disciplines, fields, institutions) that structure how knowledge is produced, understood, and disseminated, particularly as it relates to the study of race and anti-Blackness. Instead of interdisciplinarity, which suggests a polyamorous attachment to multiple, yet discrete, methodological structures, becoming undisciplined is a "suspension of method" with the end of goal of rethinking the formation of bracketed, self-enclosed fields like VS. Alongside Sharpe, the authors gesture to interventionist efforts by the [Bigger 6 Romanticism](https://twitter.com/Bigger6Romantix) and [RaceB4Race](https://acmrs.asu.edu/RaceB4Race) networks to suggest that undisciplining is part of a larger effort within literary studies---particularly as it gets defined by and partitioned into historical time periods that reify white, Western frameworks---to account for race and colonialism.

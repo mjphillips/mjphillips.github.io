@@ -2,7 +2,7 @@
 layout: post
 title: The Tropics of Victorian Studies
 date: 2020-07-17 09:52 -0400
-description: An expression of admiration and thinking-with the authors of "Undisciplining Victorian Studies." 
+description: An expression of admiration and thinking-with the authors of a recent essay in LARB. 
 image: /assets/img/jenreid.jpg
 category: 
 tags: [writing, academia, Victorian Studies, literature]

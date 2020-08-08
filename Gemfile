@@ -21,7 +21,6 @@ group :jekyll_plugins do
   gem 'jekyll-compose'
   gem 'nokogiri', '~> 1.6', '>= 1.6.8'
   gem 'jekyll-sitemap'
-  gem "kramdown", ">= 2.3.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -32,15 +32,19 @@ work. No matter where you are in your project, I would be excited to help!
 
 ## Copyediting and Proofreading
 
-While copyediting and proofreading are often used interchangeably, they are different tasks with different priorities.
-Copyediting, or line editing, focuses on the quality and comprehension of your prose. It falls somewhere between the
-developmental and substantive editing outlined above and the more granular, technical editing involved with
-proofreading. Proofreading, then, entails the mechanics of grammar and style. A proofreader can also be used to help
-ensure your project adheres to a particular style guide, like the Chicago Manual of Style or the American Psychological
-Association Publication Manual.
+Copyediting, or line editing, focuses on the quality and comprehension of your prose. It falls somewhere between
+developmental editing and proofreading.
+
+Proofreading entails granular, technical editing, with a focus on the mechanics of grammar and style. A proofreader can also be used to help
+ensure your project adheres to a particular style guide, like the Chicago Manual of Style.
 
 ## Indexing
 
-Many presses no longer offer indexing services for academic monographs. At the same time, few authors have experience
-with the production of an index. I can help either to produce your index or to edit the index that you have produced on
-your own.
+While many authors may elect to create their own index, an experienced indexer can help to transform a manuscript and make vital connections for an author.
+
+When creating an index, I try to approach your manuscript from the perspective of a reader. Yet, I also have a background in academic research, so I know how to create an index that will help to facilitate academic research. My goal is to make your book or project as accessible to as many readers as possible.
+
+I have completed the indexes for the following books:
+
+- Jason A. Bartles, *Arteletra: The Sixties in Latin America and the Politics of Going Unnoticed* (Purdue University Press, forthcoming)
+- Stephanie Y. Evans, *Black Women's Yoga History: Memoirs of Inner Peace* (SUNY Press, forthcoming)

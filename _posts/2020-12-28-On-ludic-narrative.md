@@ -1,0 +1,41 @@
+---
+layout: post
+title: On Ludic Narrative (jk, On Video Games)
+date: 2020-12-28
+description:
+image: 
+category: 
+tags: [writing, video games, newsletter]
+published: true
+sitemap: false
+---
+
+This post originally appeared on my newsletter, "Open + Worlds." Subscribe [here](https://matthewjohnphillips.substack.com).
+
+Hello and welcome!
+
+One of my ~goals~ for 2021 is to establish better intellectual and creative habits, to move further away from the rancor of Twitter and toward some baseline of individual curiosity and creation. I want to write more, to read more, to think more, and to share these with others. A preliminary thank you to everyone who is striking out on this journey with me.
+
+What is this newsletter going to be about? Simply: books, video games, and ~culture~. Does that mean I'm just going to post book reviews? Not in the sense that I plan to write synopses and run down my opinion of whether I think a book is good or bad---chances are, if I'm writing about something, then I think it's, at the very least, interesting. I bristle when I hear people say things like, "That's just my opinion!" It's an intellectual dead end and a particularly obnoxious example of individualistic thinking.
+
+I plan to approach these topics as someone who was trained as a literary critic in the academy. Here I take Fredric Jameson (lol) as a good guide to what literary criticism entails. In his "Preface" to *Marxism and Form* (1971), Jameson responds to Anglo-American critics who complain about the "difficulty" of writers like Adorno and Benjamin by writing:
+
+> The resolute abstractness of this style stands as an imperative to pass beyond the individual, empirical phenomenon to its meaning ... I cannot imagine anyone with the slightest feeling for the dialectical nature of reality remaining insensible to the purely formal pleasure of such [dialectical] sentences, in which the shifting of the world's gears and the unexpected contact between apparently unrelated and distant categories and objects find sudden and dramatic formulation. It is not, I would like to emphasize, a question of *taste*, any more than the validity of dialectical thinking is a question of *opinion*.
+
+There's a lot more to be said about literary criticism as a method, but for now I want to settle on two things. First, it should bring some new and unexpected connection (of "unrelated and distant categories and objects") into awareness. And, second, it should be pleasurable---at least, formally, whatever that means. (I think pleasure here is that sort of enjoyable tension you get in your brain when you feel yourself actively working out a set of problems or ideas. It's the pleasure of both realizing the limitations of your own abilities and, yet, of yearning for just a little bit more.) Thinkin' hard, but hardly thinking. Dialectics!
+
+A final note about video games. Earlier this year, I tweeted (since deleted) that literary critics have really dropped the ball when it comes to writing about video games, ceding valuable ground to tech journalists and sports writers. (Take for example [*Launcher*](https://www.washingtonpost.com/video-games/), the *Washington Post*'s vertical for video game news, which was founded by a veteran sports journalist.) I think the most generous reading of this situation is that this division of labor reflects larger economic trends. But, as a result, there's very little *good* writing about video games as a narrative medium, one with an especially complex relationship to art and commodification.
+
+There are a lot of reasons why literary critics don't write about video games. Literary criticism is notoriously slow to accept new mediums as worthy of discussion. (In 2008, Hilary Chute wrote a defense of "comics as literature," many, many decades after comics had thoroughly saturated the culture. How long until the PMLA publishes an article on "Video Games as Literature"?) Video games are also hard to anthologize and teach. (What would it look like to study video games in a classroom?) And, like any other vernacular form, video games come with a lot of cultural baggage (Gamergate being, perhaps, the most notorious example). Frankly, it's hard to want to write about video games when you feel like you're flanked on both sides and forced to defend your intellectual credentials, on the one hand, and your in-group "gamer" credentials, on the other. (More on how video games enable these sorts of masculinist responses in a future newsletter installment.)
+
+But, I think the biggest hurdle to writing about video games within the context of literature is the issue of "interactivity." Within the context of literary criticism, it is generally presumed by our methods that literature is *autonomous*. Mary Poovey has called this the "model system of contemporary literary criticism," and it is guided by unspoken professional norms, from the habit of close reading to the nature of quotation and citation, that treat the literary text *as if* it were a living thing: an autonomous, constructed form that simulates life but which is also separate from life. (Jameson, too, refers to literature as a "closed realm.") There's a lot of history behind Poovey's argument---both natural and literary history---but suffice it to say that literary criticism is guided by "a model of the autonomous literary text."
+
+However, video games are interactive, and that puts a lot of pressure on the assumption of autonomy. The degree of interactivity may vary from game to game. Some games have low degrees of interactivity; at the most extreme, players may only ever press a single button to progress what is, in effect, a movie (e.g, the games from Quantic Dream or Netflix's "choose your own adventure" experiments for *Unbreakable Kimmy Schmidt* and *Black Mirror*). Some games have extremely high degrees of interactivity, where players not only interact with but *construct* the world in which they play, as in sandbox-style game creators like *Super Mario Maker*. From the joystick to the keyboard, player input not only responds to the video game in a passive way but it also actively creates the aesthetic experience.
+
+Of course, there are a lot of things that do this, but none more so than video games. I'm not going to go much further with defining my object. There's a lot to say, and I hope to expand on or refine these ideas in the future. For now, I want to end by mentioning *why* it matters that literary criticism has ignored video games. I think Jameson is helpful on this point. (Here I go again!) Toward the end of his "Preface," he reflects on how dialectical thinking might restore class as an essential element of thought within the experience of late capitalism. He writes,
+
+> We are no longer able to make any felt connection between the concerns of private life, as it follows its own course within the walls and confines of the affluent society, and the structural projections of the system in the outside world ... We inhabit a dream world of artificial stimuli and televised experience.
+
+The point is not that video games are a solution to atomized and mediated life. Rather, they are the one contemporary aesthetic category best suited for capturing this impasse and reflecting how aesthetic experience has been transformed by the over-saturation of artificial stimuli. Crucially, as Ngai puts it, they give insight into the "longstanding idea of art as play as opposed to labor in a world where immaterial labor is increasingly aestheticized." What happens when art and play collide? How do problems like "open world fatigue" put pressure on the idea of art and play as separate? How can we think and write clearly about problems like gamification, especially when so much of our intellectual life is channeled through gamified forms like Twitter, the academy, and the freelance hustle? Hopefully, more to come...
+
+A bit of housekeeping: the tentative plan is to write once a week. The newsletter will be published every Monday; every first and third Monday will be about video games, and every other week will be about various topics in literature and ~culture~. I'm planning to focus my reading this year on books in translation, so look forward to my hot takes on Balzac and Stendhal!!

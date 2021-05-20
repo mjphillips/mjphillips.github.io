@@ -19,7 +19,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.12'
   gem 'jekyll-compose'
-  gem 'nokogiri', '~> 1.6', '>= 1.6.8'
+  gem 'nokogiri', '~> 1.11'
   gem 'jekyll-sitemap'
 end
 

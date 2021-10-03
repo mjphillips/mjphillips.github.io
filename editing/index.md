@@ -39,5 +39,5 @@ I have completed the indexes for the following books:
 - Jean-Thomas Tremblay and Andrew Strombeck, eds., *Avant-Gardes in Crisis: Art and Politics in the Long 1970s* (SUNY Press, 2021)
 - Ryan Watson, *Radical Documentary and Global Crises: Militant Evidence in the Digital Age* (Indiana University Press, 2021)
 - Christopher Roberts, *Alternative Approaches to Human Rights: The Disparate Historical Paths of the European, Inter-American and African Regional Human Rights* (Cambridge University Press, forthcoming)
-- Shirin E. Edwins, *The Space of the Transnational: Feminisms and *Ummah* in African and Southeast Asian Writing* (SUNY Press, forthcoming)
+- Shirin E. Edwins, *The Space of the Transnational: Feminisms and Ummah in African and Southeast Asian Writing* (SUNY Press, forthcoming)
 - David Kurnick, *The Savage Detectives Reread* (Columbia University Press, forthcoming)

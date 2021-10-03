@@ -19,4 +19,4 @@ I tweet at [@mjphillips](twitter.com/mjphillips).
 
 Follow my newsletter [*Open + Worlds*](https://matthewjohnphillips.substack.com), where I write about literature, video games, and, against my better judgment, "culture."
 
-*Last updated*: July 2021
+*Last updated*: October 2021

@@ -17,7 +17,7 @@ sidebar_sort_order: 2
 
 "[The Complex History of Gay Panic and the 2001 Thriller *The Deep End*](https://crimereads.com/the-deep-end/)." *CrimeReads*. April 16, 2021.
 
-> The 1947 novel is about protecting a teenage daughter's sexual 'virtue.' The 2001 film changes that character to a gay son, and plays with how his sexuality leads to a domestic panic.
+> The 1947 novel is about protecting a teenage daughter's sexual "virtue." The 2001 film changes that character to a gay son, and plays with how his sexuality leads to a domestic panic.
 
 "[Review of Julia Kerninon's *My Devotion*](https://www.full-stop.net/2021/02/22/reviews/matthew-john-phillips/my-devotion-julia-kerninon/)." *Full Stop*. February 22, 2021.
 
